@@ -1,0 +1,8 @@
+Enter the target IP or hostname: www.cnn.com
+Enter the ports you want to scan (separated by commas, or press Enter to use default ports): 443,25,80
+
+Scanning www.cnn.com...
+
+[+] Port 443 is OPEN
+[+] Port 25 is OPEN
+[+] Port 80 is OPEN
